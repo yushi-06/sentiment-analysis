@@ -1,0 +1,53 @@
+{
+  "datasets": {
+    "bias_correction": {
+      "file_path": "fix_bias_data.csv",
+      "text_column": "text",
+      "sentiment_column": "sentiment",
+      "description": "Your original bias correction training data",
+      "added_date": "2025-09-29T15:30:19.925859",
+      "exists": true
+    },
+    "movie_reviews": {
+      "file_path": "sample_movie_reviews.csv",
+      "text_column": "review_text",
+      "sentiment_column": "sentiment_label",
+      "description": "Sample movie reviews dataset",
+      "added_date": "2025-09-29T15:30:19.927000",
+      "exists": true
+    },
+    "product_reviews": {
+      "file_path": "sample_product_reviews.csv",
+      "text_column": "text",
+      "sentiment_column": "sentiment",
+      "description": "Sample product reviews dataset",
+      "added_date": "2025-09-29T15:30:19.928100",
+      "exists": true
+    },
+    "social_media": {
+      "file_path": "sample_social_media.csv",
+      "text_column": "post",
+      "sentiment_column": "emotion",
+      "description": "Sample social media posts dataset",
+      "added_date": "2025-09-29T15:30:19.929643",
+      "exists": true
+    },
+    "my_reviews.csv": {
+      "file_path": "C:\\Users\\Sahil\\OneDrive\\Desktop\\sentiment-analysis\\my_reviews.csv.xlsx",
+      "text_column": "text",
+      "sentiment_column": "label",
+      "description": "",
+      "added_date": "2025-09-29T15:37:34.473685",
+      "exists": true
+    },
+    "my_reviews": {
+      "file_path": "my_reviews.csv",
+      "text_column": "text",
+      "sentiment_column": "sentiment",
+      "description": "Sample reviews dataset for training",
+      "added_date": "2025-09-29T15:41:30.846843",
+      "exists": true
+    }
+  },
+  "last_updated": "2025-09-29T15:41:30.846860"
+}

@@ -1,0 +1,39 @@
+# Virtual environments
+venv/
+.venve/
+.venv/
+sentiment_env/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Model files and checkpoints (large binary files)
+sentiment_model/
+results/
+*.pkl
+
+# Archived files (contains old venvs and large files)
+archived_files/
+
+# Knowledge backups (large binary)
+knowledge_backups/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Distribution
+*.egg-info/
+dist/
+build/
+
+# Excel files
+*.xlsx

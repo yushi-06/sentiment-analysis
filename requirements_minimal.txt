@@ -1,0 +1,21 @@
+# Minimal Requirements for Sentiment Analysis Project
+# Core functionality only - install additional packages as needed
+
+# Essential Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# File Format Support
+openpyxl>=3.1.0
+
+# Optional: Enhanced ML Features (uncomment if needed)
+# torch>=2.0.0
+# transformers>=4.30.0
+# scikit-learn>=1.3.0
+
+# Optional: Visualization (uncomment if needed)  
+# matplotlib>=3.5.0
+# seaborn>=0.11.0
+
+# Development Tools (optional)
+# pytest>=7.0.0
