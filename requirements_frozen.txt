@@ -1,0 +1,29 @@
+# Frozen environment for reproducibility
+# Generated to ensure exact version matches for scientific experiments
+
+# Core ML and Deep Learning
+torch==2.4.0
+transformers==4.56.1
+tokenizers==0.21.1
+safetensors==0.4.5
+accelerate==1.2.1
+sentencepiece==0.2.0
+
+# Data Processing
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.5.2
+datasets==3.2.0
+evaluate==0.4.3
+
+# Visualization
+matplotlib==3.9.3
+seaborn==0.13.2
+plotly==5.24.1
+
+# Utilities and File Formats
+openpyxl==3.1.5
+xlrd==2.0.1
+tqdm==4.67.1
+requests==2.32.3
+PyYAML==6.0.2

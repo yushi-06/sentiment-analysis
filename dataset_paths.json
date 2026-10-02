@@ -33,7 +33,7 @@
       "exists": true
     },
     "my_reviews.csv": {
-      "file_path": "C:\\Users\\Sahil\\OneDrive\\Desktop\\sentiment-analysis\\my_reviews.csv.xlsx",
+      "file_path": "my_reviews.csv.xlsx",
       "text_column": "text",
       "sentiment_column": "label",
       "description": "",
